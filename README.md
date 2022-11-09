@@ -1,21 +1,24 @@
 # Coding Integration - Math / Science / Data Science
 
-## Part 1 Coding Integration in Math - MTH1W
+## Part 1 Coding Integration in Science - SNC1W
 
 In this first notebook we will be exploring the following Expectations
 
-### C1 Algebraic Expressions and Equations
-- demonstrate an understanding of the development and use of algebraic concepts and of their connection to numbers, using various tools and representations
+## A. STEM Skills, Careers, and Connections
+### A1. STEM Investigation Skills
 
-C1.5 create and solve equations for various contexts, and verify their solutions
+A1.2 apply a scientific experimentation process and associated skills to conduct investigations, making connections between their observations and findings and the scientific concepts they are learning
 
-### C2 Coding
-- apply coding skills to represent mathematical concepts and relationships dynamically, and to solve problems, in algebra and across the other strands.
+A1.3 apply an engineering design process and associated skills to design, build, and test devices, models, structures, and/or systems
 
-C2.1 use coding to demonstrate an understanding of algebraic concepts including variables, parameters, equations, and inequalities
+A1.4 apply **coding skills to investigate and to model scientific concepts and relationships**
 
-C2.2 create code by decomposing situations into computational steps in order to represent mathematical concepts and relationships, and to solve problems
+## D. Physics - Principles and Applications of Electricity
 
-C2.3 read code to predict its outcome, and alter code to adjust constraints, parameters, and outcomes to represent a similar or new mathematical situation
+D2.3 identify the components of a direct current (DC) circuit and explain their functions, and identify electrical quantities, their symbols, and their corresponding International System of Units (SI) units
+
+D2.5 apply a mathematical model to calculate electric current, potential difference, and resistance in real-world situations
+
+D2.6 construct series and parallel circuits to compare electric current, potential difference, and resistance in both types of circuits
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
